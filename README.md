@@ -8,8 +8,8 @@ num pequeno produto de dados: leitura, limpeza, validação, testes e modelos.
 
 ## Preparar o ambiente (uma vez)
 
-```bash
-python -m venv .venv
+`m venv .venv``bash
+python -
 source .venv/bin/activate        # no Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
 ```
